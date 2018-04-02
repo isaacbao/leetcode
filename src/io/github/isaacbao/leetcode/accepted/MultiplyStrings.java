@@ -1,4 +1,4 @@
-package io.github.isaacbao.leetcode;
+package io.github.isaacbao.leetcode.accepted;
 
 /**
  * Created by rongyang_lu on 2017/12/19.

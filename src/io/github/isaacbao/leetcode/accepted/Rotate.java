@@ -1,4 +1,4 @@
-package io.github.isaacbao.leetcode;
+package io.github.isaacbao.leetcode.accepted;
 
 import java.util.Arrays;
 
